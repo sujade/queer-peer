@@ -1,6 +1,6 @@
 import type {Metadata} from "next";
 import '@fontsource/atkinson-hyperlegible/latin.css'
-import '@fontsource/atkinson-hyperlegible/latin-italic.css.css'
+import '@fontsource/atkinson-hyperlegible/latin-italic.css'
 
 export const metadata: Metadata = {
     title: "Queer Peer",

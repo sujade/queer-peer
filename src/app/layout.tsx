@@ -1,4 +1,5 @@
 import type {Metadata} from "next";
+import 'bootstrap/dist/css/bootstrap.css';
 import '@fontsource/atkinson-hyperlegible/latin.css'
 import '@fontsource/atkinson-hyperlegible/latin-italic.css'
 

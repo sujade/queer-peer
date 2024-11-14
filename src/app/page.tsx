@@ -1,12 +1,22 @@
 import React from 'react';
+import {Col, Container, Row} from "react-bootstrap";
 
 const Page = () => {
     return (
         <>
-            <h1>Your ad here</h1>
-            <span>This is a regular text with numbers.</span> <br/>
-            <span className={'text-danger fw-bold'}>3 2 1 0</span> <br/>
-            <span className={'fw-bold'}>This is a bold text using Bootstrap</span>
+            <Container className={'d-flex align-items-center justify-content-center'}>
+                <Row>
+                    <Col>
+                        <h1>Hello Text Here</h1>
+                    <h4>(It switches between languages as you wait.)</h4>
+                    <h3>Get Started! (the button)</h3></Col>
+
+                    <Col>
+                        <h1>What is QueerPeer?</h1>
+                        <h4>Text about QueerPeer, what it does, how it works and that it is non-profit.</h4>
+                    </Col>
+                </Row>
+            </Container>
         </>
     );
 };

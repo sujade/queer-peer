@@ -2,6 +2,8 @@ import type { Metadata } from 'next';
 import 'bootstrap/dist/css/bootstrap.css';
 import '@fontsource/atkinson-hyperlegible/latin.css';
 import '@fontsource/atkinson-hyperlegible/latin-italic.css';
+import NavigationBar from '@/Components/General/NavigationBar';
+import Footer from '@/Components/General/Footer';
 
 export const metadata: Metadata = {
   title: 'Queer Peer',
@@ -15,7 +17,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang='de'>
-      <body>{children}</body>
+      <body>
+        <NavigationBar />
+        {children} <Footer />
+      </body>
     </html>
   );
 }

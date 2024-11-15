@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05c9830a-09ef-481e-bbbe-7be4c91d62cb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/General/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/General/Footer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/General/NavigationBar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/General/NavigationBar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,7 @@
       <workItem from="1730022494899" duration="980000" />
       <workItem from="1731597642773" duration="3840000" />
       <workItem from="1731673918600" duration="2175000" />
-      <workItem from="1731676530266" duration="2031000" />
+      <workItem from="1731676530266" duration="2684000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -177,7 +176,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731678016394</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add navbar and footer placeholder">
+      <option name="closed" value="true" />
+      <created>1731678622212</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1731678622212</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add mock get started button">
+      <option name="closed" value="true" />
+      <created>1731678742438</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1731678742439</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +210,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="remove unused font files" />
     <MESSAGE value="remove redundant files and reset the project" />
@@ -207,6 +224,8 @@
     <MESSAGE value="p" />
     <MESSAGE value="create base components for landing page" />
     <MESSAGE value="install react icons" />
-    <option name="LAST_COMMIT_MESSAGE" value="install react icons" />
+    <MESSAGE value="add navbar and footer placeholder" />
+    <MESSAGE value="add mock get started button" />
+    <option name="LAST_COMMIT_MESSAGE" value="add mock get started button" />
   </component>
 </project>

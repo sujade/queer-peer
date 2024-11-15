@@ -36,12 +36,11 @@ const Footer = () => {
         <Col>
           <span
             className={
-              'fw-bold text-muted d-flex justify-content-center align-items-center'
+              'fw-bold d-flex justify-content-center align-items-center'
             }>
-            made with&nbsp;<span className={'text-danger'}>♥</span>&nbsp; by&nbsp;
-            <Link className={'text-muted'} href={'https://github.com/sujade'}>
-              su jade
-            </Link>
+            made with&nbsp;<span className={'text-danger'}>♥</span>&nbsp;
+            by&nbsp;
+            <Link href={'https://github.com/sujade'}>su jade</Link>
           </span>
         </Col>
       </Row>

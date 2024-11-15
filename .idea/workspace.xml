@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05c9830a-09ef-481e-bbbe-7be4c91d62cb" name="Changes" comment="">
+    <list default="true" id="05c9830a-09ef-481e-bbbe-7be4c91d62cb" name="Changes" comment="p">
+      <change afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Landing/ExplanationText.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Landing/ExplanationText.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Landing/GreetingText.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Landing/GreetingText.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +54,8 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog",
+    "prettierjs.PrettierConfiguration.Package": "/home/su/Documents/queer-peer/node_modules/prettier",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "ts.external.directory.path": "/home/su/Documents/queer-peer/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -69,7 +76,8 @@
       <option name="presentableId" value="Default" />
       <updated>1730022493592</updated>
       <workItem from="1730022494899" duration="980000" />
-      <workItem from="1731597642773" duration="3642000" />
+      <workItem from="1731597642773" duration="3840000" />
+      <workItem from="1731673918600" duration="2175000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -143,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731599974843</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="start mocking the landing and made component preparation">
+      <option name="closed" value="true" />
+      <created>1731601311541</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1731601311541</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +184,7 @@
     <MESSAGE value="install i18 next and test bootstrap" />
     <MESSAGE value="install i18 next and test bootstrap" />
     <MESSAGE value="switch to next 14 instead" />
-    <option name="LAST_COMMIT_MESSAGE" value="switch to next 14 instead" />
+    <MESSAGE value="start mocking the landing and made component preparation" />
+    <option name="LAST_COMMIT_MESSAGE" value="start mocking the landing and made component preparation" />
   </component>
 </project>

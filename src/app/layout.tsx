@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import 'bootstrap/dist/css/bootstrap.css';
+import './style.css';
 import '@fontsource/atkinson-hyperlegible/latin.css';
 import '@fontsource/atkinson-hyperlegible/latin-italic.css';
 import NavigationBar from '@/Components/General/NavigationBar';

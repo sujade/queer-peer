@@ -6,19 +6,29 @@ const Footer = () => {
   return (
     <Row className={'d-flex justify-content-center align-items-center'}>
       <Col md='auto'>
-        <Link href={'/one'}>About</Link>
+        <Link href={'/about'} className={'fw-bold'}>
+          About
+        </Link>
       </Col>
       <Col md='auto'>
-        <Link href={'/one'}>Organizations</Link>
+        <Link href={'/partners'} className={'fw-bold'}>
+          Our Partners
+        </Link>
       </Col>
       <Col md='auto'>
-        <Link href={'/one'}>Hospitals</Link>
+        <Link href={'/volunteering'} className={'fw-bold'}>
+          Volunteering
+        </Link>
       </Col>
       <Col md='auto'>
-        <Link href={'/one'}>Volunteering</Link>
+        <Link href={'/donate'} className={'fw-bold'}>
+          Donate
+        </Link>
       </Col>
       <Col md='auto'>
-        <Link href={'/one'}>Privacy Policy</Link>
+        <Link href={'/privacy-policy'} className={'fw-bold'}>
+          Privacy Policy
+        </Link>
       </Col>
     </Row>
   );

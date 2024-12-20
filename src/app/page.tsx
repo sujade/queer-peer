@@ -8,7 +8,7 @@ const Page = () => {
     <>
       <Container
         className={
-          'd-flex align-items-center justify-content-center flex-nowrap overflow-hidden'
+          'd-flex align-items-center justify-content-center flex-nowrap overflow-hidden my-5'
         }>
         <Row>
           <Col

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05c9830a-09ef-481e-bbbe-7be4c91d62cb" name="Changes" comment="" />
+    <list default="true" id="05c9830a-09ef-481e-bbbe-7be4c91d62cb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Components/Landing/ExplanationText.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Landing/ExplanationText.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +85,7 @@
       <workItem from="1731673918600" duration="2175000" />
       <workItem from="1731676530266" duration="4245000" />
       <workItem from="1734696186364" duration="32000" />
-      <workItem from="1734696226161" duration="2455000" />
+      <workItem from="1734696226161" duration="2808000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -237,7 +239,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734698490453</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="move links to the right side of the navbar">
+      <option name="closed" value="true" />
+      <created>1734698838755</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1734698838755</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,6 +284,7 @@
     <MESSAGE value="mock footer" />
     <MESSAGE value="finish the skeleton for footer" />
     <MESSAGE value="add navbar and changing text" />
-    <option name="LAST_COMMIT_MESSAGE" value="add navbar and changing text" />
+    <MESSAGE value="move links to the right side of the navbar" />
+    <option name="LAST_COMMIT_MESSAGE" value="move links to the right side of the navbar" />
   </component>
 </project>

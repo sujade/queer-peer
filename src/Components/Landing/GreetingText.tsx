@@ -26,7 +26,7 @@ const GreetingText = () => {
     setText(messages[index]);
   }, [index]);
 
-  return <span className='greeting-text fade-in-out'>{text}</span>;
+  return <span className='greeting-text fade-in-out'>{text}</span>  ;
 };
 
 export default GreetingText;

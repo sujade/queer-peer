@@ -6,12 +6,19 @@ import ExplanationText from '@/Components/Landing/ExplanationText';
 const Page = () => {
   return (
     <>
-      <Container className={'d-flex align-items-center justify-content-center'}>
+      <Container
+        className={
+          'd-flex align-items-center justify-content-center flex-nowrap overflow-hidden'
+        }>
         <Row>
-          <Col>
+          <Col
+            className={'d-flex align-items-center justify-content-center'}
+            md={6}>
             <GreetingText />
           </Col>
-          <Col>
+          <Col
+            className={'d-flex align-items-center justify-content-center'}
+            md={6}>
             <ExplanationText />
           </Col>
         </Row>

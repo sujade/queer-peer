@@ -2,3 +2,23 @@ a {
     text-decoration: none;
     color: black;
 }
+
+.fade-in-out {
+    animation: fadeInOut 4s ease-in-out infinite;
+}
+
+@keyframes fadeInOut {
+    0% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+.greeting-text, .explanation-header {
+    font-size: 8vh;
+}

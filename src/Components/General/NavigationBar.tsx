@@ -14,7 +14,9 @@ function NavigationBar() {
       <Container>
         <NavbarToggle aria-controls='basic-navbar-nav' />
         <NavbarCollapse id='basic-navbar-nav'>
-          <Nav className='me-auto'>
+          <Nav className='ms-auto'>
+            {' '}
+            {/* Move Nav to the right */}
             <NavLink className={'text-black'} href='/'>
               Home
             </NavLink>

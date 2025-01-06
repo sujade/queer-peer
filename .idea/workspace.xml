@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05c9830a-09ef-481e-bbbe-7be4c91d62cb" name="Changes" comment="" />
+    <list default="true" id="05c9830a-09ef-481e-bbbe-7be4c91d62cb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Landing/ExplanationText.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Landing/GetStartedButton.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +89,7 @@
       <workItem from="1731676530266" duration="4245000" />
       <workItem from="1734696186364" duration="32000" />
       <workItem from="1734696226161" duration="3606000" />
+      <workItem from="1736159673237" duration="650000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -261,7 +267,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734699748127</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Greeting text">
+      <option name="closed" value="true" />
+      <created>1736159710592</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1736159710592</updated>
+    </task>
+    <task id="LOCAL-00024" summary="remove greetingtext due to instabilities">
+      <option name="closed" value="true" />
+      <created>1736159950801</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1736159950801</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,6 +323,8 @@
     <MESSAGE value="move links to the right side of the navbar" />
     <MESSAGE value="set the alignment" />
     <MESSAGE value="replace text with button for easier access." />
-    <option name="LAST_COMMIT_MESSAGE" value="replace text with button for easier access." />
+    <MESSAGE value="Greeting text" />
+    <MESSAGE value="remove greetingtext due to instabilities" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove greetingtext due to instabilities" />
   </component>
 </project>

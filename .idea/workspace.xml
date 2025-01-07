@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="05c9830a-09ef-481e-bbbe-7be4c91d62cb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/General/NavigationBar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/General/NavigationBar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Landing/RoleCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Landing/RoleCard.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="SCSS File" />
-        <option value="TypeScript JSX File" />
         <option value="CSS File" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
@@ -89,7 +89,7 @@
       <workItem from="1734696186364" duration="32000" />
       <workItem from="1734696226161" duration="3606000" />
       <workItem from="1736159673237" duration="1495000" />
-      <workItem from="1736240408498" duration="2581000" />
+      <workItem from="1736240408498" duration="2912000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -299,7 +299,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736251835167</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="add role card for the page usage">
+      <option name="closed" value="true" />
+      <created>1736252267334</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1736252267334</updated>
+    </task>
+    <task id="LOCAL-00028" summary="remove unnecessary note on navigationbar">
+      <option name="closed" value="true" />
+      <created>1736252284567</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1736252284567</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,7 +335,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="initial commit" />
     <MESSAGE value="remove unused font files" />
     <MESSAGE value="remove redundant files and reset the project" />
     <MESSAGE value="implement bootstrap and import atkinson hyperlegible font" />
@@ -343,6 +358,8 @@
     <MESSAGE value="remove greetingtext due to instabilities" />
     <MESSAGE value="try new design pattern" />
     <MESSAGE value="change the heading and the description text" />
-    <option name="LAST_COMMIT_MESSAGE" value="change the heading and the description text" />
+    <MESSAGE value="add role card for the page usage" />
+    <MESSAGE value="remove unnecessary note on navigationbar" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove unnecessary note on navigationbar" />
   </component>
 </project>

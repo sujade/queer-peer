@@ -6,9 +6,8 @@ const Page = () => {
     <Container className='my-5'>
       <Row className='mb-4'>
         <Col xs={12} className='text-center'>
-          <span>Big title!</span>
-          <br />
-          <span>Let me get you up to speed</span>
+          <h1 className={'display-1'}>Q u e e r  P e e  r</h1>
+          <span className={'fw-bold'}>QueerPeer helps stationary patients by forwarding their requests to organizations</span>
         </Col>
       </Row>
       <Row className='mb-4'>

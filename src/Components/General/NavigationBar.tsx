@@ -16,7 +16,6 @@ function NavigationBar() {
         <NavbarCollapse id='basic-navbar-nav'>
           <Nav className='ms-auto'>
             {' '}
-            {/* Move Nav to the right */}
             <NavLink className={'text-black'} href='/'>
               Home
             </NavLink>

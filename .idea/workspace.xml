@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="05c9830a-09ef-481e-bbbe-7be4c91d62cb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Landing/ButtonRow.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Landing/ButtonRow.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Landing/HeaderRow.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Landing/HeaderRow.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +92,7 @@
       <workItem from="1736159673237" duration="1495000" />
       <workItem from="1736240408498" duration="2912000" />
       <workItem from="1736324708190" duration="879000" />
-      <workItem from="1736344062566" duration="380000" />
+      <workItem from="1736344062566" duration="1521000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -324,7 +326,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736325577286</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="move header and button rows into separate components">
+      <option name="closed" value="true" />
+      <created>1736344628113</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1736344628113</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,7 +354,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="remove redundant files and reset the project" />
     <MESSAGE value="implement bootstrap and import atkinson hyperlegible font" />
     <MESSAGE value="install i18 next and test bootstrap" />
     <MESSAGE value="install i18 next and test bootstrap" />
@@ -369,6 +378,7 @@
     <MESSAGE value="add role card for the page usage" />
     <MESSAGE value="remove unnecessary note on navigationbar" />
     <MESSAGE value="add borders and roundness to cards" />
-    <option name="LAST_COMMIT_MESSAGE" value="add borders and roundness to cards" />
+    <MESSAGE value="move header and button rows into separate components" />
+    <option name="LAST_COMMIT_MESSAGE" value="move header and button rows into separate components" />
   </component>
 </project>
